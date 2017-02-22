@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Compare Side-By-Side",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Git",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"JavaScriptNext - ES6 Syntax",
+		"LiveStyle",
+		"Markdown Extended",
+		"MarkdownLivePreview",
+		"Material Theme",
+		"Origami",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-jshint"
+	]
+}
