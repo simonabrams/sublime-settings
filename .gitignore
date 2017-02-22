@@ -3,5 +3,6 @@
 
 # ... except preferences
 !.gitignore
-!Pereferences.sublime-settings
+!Preferences.sublime-settings
 !Package Control.sublime-settings
+!Markdown.sublime-settings
