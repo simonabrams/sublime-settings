@@ -25,6 +25,7 @@
 		"Pretty JSON",
 		"Sass",
 		"SublimeLinter",
-		"SublimeLinter-jshint"
+		"SublimeLinter-jshint",
+		"Terminal"
 	]
 }

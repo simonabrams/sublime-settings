@@ -1,4 +1,13 @@
 {
+	"binary_file_patterns":
+	[
+		".DS_Store",
+		".gitignore",
+		"*.psd",
+		"node_modules",
+		"vendor",
+		"tmp/"
+	],
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"draw_minimap_border": true,
 	"font_face": "Inconsolata",
@@ -12,6 +21,5 @@
 	"material_theme_accent_cyan": true,
 	"material_theme_small_tab": true,
 	"theme": "Material-Theme.sublime-theme",
-	"word_wrap": "true",
-	"binary_file_patterns": [".DS_Store", ".gitignore", "*.psd", "node_modules", "vendor", "tmp/"]
+	"word_wrap": "true"
 }
