@@ -1,2 +1,2 @@
-# sublime-settings
-My SublimeText 3 settings
+# Sublime Settings
+My [SublimeText 3](http://sublimetext.com/) settings.
