@@ -4,14 +4,14 @@
 		".DS_Store",
 		".gitignore",
 		"*.psd",
-		"node_modules",
-		"vendor",
+		"node_modules/",
+		"vendor/",
 		"tmp/"
 	],
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"draw_minimap_border": true,
 	"font_face": "Inconsolata",
-	"font_size": 13,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
